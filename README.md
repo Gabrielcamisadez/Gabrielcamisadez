@@ -7,9 +7,11 @@ Actually i am focus on the LPIC-1 certification
 I have some experience with :
   
   Linux
+
   Cybersecurity fundamentals
   
     With some security tools like EDR, Firewall, PowerBI
+  
   I can create some PowerBi dashboards with security data
   
     Some 'pentest' tools, like basic target enumeration
@@ -19,6 +21,9 @@ I have some experience with :
     Identify some suspect traffic on the network
   
   Wazuz
+
   ESET
+
   Iso 27001
+
   Some frameworks like CIS Controls
