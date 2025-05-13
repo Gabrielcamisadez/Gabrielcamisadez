@@ -2,6 +2,7 @@
 
 I am a cybersecurity student and I hope to become a good professional over time.
 
+Actually i am focus on the LPIC-1 certification
 
 I have some experience with :
   
