@@ -20,7 +20,7 @@ I have some experience with :
   
     Identify some suspect traffic on the network
   
-  Wazuz
+  Wazuh
 
   ESET
 
