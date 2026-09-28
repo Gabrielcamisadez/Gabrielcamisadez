@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="" height="25" alt="linkedin logo"  />
+  
 </div>
 
 ###
